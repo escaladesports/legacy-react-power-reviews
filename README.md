@@ -2,4 +2,4 @@
 
 **DO NOT USE**
 
-Now part of [escalade-internal](https://github.com/escaladesports/escalade-internal/tree/master/packages/react-power-reviews) monorepo.
+Now part of [escalade](https://github.com/escaladesports/escalade-internal/tree/master/packages/react-power-reviews) monorepo.
